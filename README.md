@@ -17,7 +17,7 @@ My journey into software development began with curiosity and has since evolved 
 
 📫 **Reach me at**: anaschaudry2002@gmail.com  
 🌐 **Portfolio**: [anasch.netlify.app](https://anasch.netlify.app)  
-💬 **Let’s talk about**: MERN Stack, Next.js, Firebase, OpenAI, AssemblyAI  
+💬 **Let’s talk about**: MERN Stack, Next.js, Firebase, Supabase, PostgreSQL, LLM's
 🔗 **Connect with me**:  
 - [LinkedIn](https://linkedin.com/in/anas%20ch)  
 - [Stack Overflow](https://stackoverflow.com/users/23267716)  
@@ -32,11 +32,14 @@ My journey into software development began with curiosity and has since evolved 
 - Node.js, Express.js  
 - MongoDB  
 - Firebase  
-- TailwindCSS, Sass  
+- TailwindCSS.
+- Supabase
+- PostgreSQL
+- Flask
+- Python
 - Git & GitHub  
 - Postman, REST APIs  
-- OpenAI, AssemblyAI  
-- Figma  
+- OpenAI, HuggingFace models, Transformers, RAG
 - Linux & Nginx  
 
 ---
