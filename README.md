@@ -12,7 +12,6 @@ As a Level 2 Seller on Fiverr, I've delivered a wide range of solutions to clien
 
 My journey into software development began with curiosity and has since evolved into a purpose-driven career. I believe in constant learning, clear communication, and writing maintainable code. I enjoy collaborating with clients and teams who share a vision for meaningful, efficient, and modern technology.
 
-Previously, I interned at [Codsoft](https://www.codsoft.in/), where I gained hands-on experience with professional workflows and development practices. Now, I lead and contribute to projects that combine my skills in AI, backend development, and interactive user experiences.
 
 ---
 
