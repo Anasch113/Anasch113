@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Anas Rafiq — Software Developer from Pakistan</h2>
 
 <p align="center">
-  <img src="https://lottie.host/bb4ecbb8-08bd-4007-8b87-6440c9b804c0/b4C09F0z1Q.lottie" width="400" alt="Coding animation" />
+  <img src="https://lottie.host/embed/bb4ecbb8-08bd-4007-8b87-6440c9b804c0/b4C09F0z1Q.lottie" width="400" alt="Coding animation" />
 </p>
 
 ---
