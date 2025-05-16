@@ -1,8 +1,7 @@
 <h2 align="center">Hi, I'm Anas Rafiq — Software Developer from Pakistan</h2>
 
 <p align="center">
- <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-<dotlottie-player src="https://lottie.host/d5634b73-078e-40a9-a467-99ae6c4cffa1/AosANnW54j.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+
 </p>
 
 ---
